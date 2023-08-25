@@ -40,7 +40,7 @@
 #include <string>
 #include <ros/ros.h>
 #include <ros/node_handle.h>
-#include <sound_play/SoundRequest.h>
+#include <sound_play_msgs/SoundRequest.h>
 #include <boost/thread.hpp>
 
 namespace sound_play
