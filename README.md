@@ -1,9 +1,11 @@
-# ROS audio\_common Package
+# ROS 2 audio\_common Package
+
+*** This is a fork for the ROS 2 port of the audio_common package for ROS. Look below for the original instructions. ***
 
 [![ROS1 CI](https://github.com/ros-drivers/audio_common/actions/workflows/main.yml/badge.svg)](https://github.com/ros-drivers/audio_common/actions/workflows/main.yml)
 [![ROS2 CI](https://github.com/ros-drivers/audio_common/actions/workflows/ros2.yml/badge.svg)](https://github.com/ros-drivers/audio_common/actions/workflows/ros2.yml)
 
-This repository contains the ROS audio\_common package.
+This repository contains the ROS 2 audio\_common package.
 
 For user documentation, please refer to the [ROS Wiki page for audio\_common](http://wiki.ros.org/audio_common)
 
